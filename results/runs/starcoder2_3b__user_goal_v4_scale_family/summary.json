@@ -1,0 +1,12 @@
+﻿{
+  "model": "starcoder2:3b",
+  "run_name": "user_goal_v4_scale_family",
+  "n": 184,
+  "exact_name_match": 0.0,
+  "substring_name_match": 0.0,
+  "name_token_f1": 0.0,
+  "description_token_f1": 0.0,
+  "parse_error_count": 184,
+  "runtime_error_count": 0,
+  "metrics_csv": "results/runs/starcoder2_3b__user_goal_v4_scale_family/metrics.csv"
+}

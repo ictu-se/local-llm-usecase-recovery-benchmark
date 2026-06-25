@@ -1,0 +1,15 @@
+{
+  "n": 184,
+  "frameworks": 6,
+  "domains": 5,
+  "outputs": [
+    "experimental_slices_by_framework.csv",
+    "experimental_slices_by_domain.csv",
+    "experimental_slices_by_code_path_count.csv",
+    "experimental_slices_by_api_path_count.csv",
+    "experimental_slices_by_test_evidence.csv",
+    "confidence_calibration.csv",
+    "path_fidelity_by_api_path_count.csv",
+    "path_fidelity_by_code_path_count.csv"
+  ]
+}

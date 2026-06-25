@@ -1,0 +1,12 @@
+﻿{
+  "model": "codegemma:7b",
+  "run_name": "user_goal_v4_scale_family",
+  "n": 184,
+  "exact_name_match": 0.1739,
+  "substring_name_match": 0.2011,
+  "name_token_f1": 0.3874,
+  "description_token_f1": 0.208,
+  "parse_error_count": 62,
+  "runtime_error_count": 0,
+  "metrics_csv": "results/runs/codegemma_7b__user_goal_v4_scale_family/metrics.csv"
+}

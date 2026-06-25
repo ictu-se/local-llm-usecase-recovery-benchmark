@@ -1,0 +1,16 @@
+{
+  "model": "qwen2.5-coder:14b",
+  "run_name": "user_goal_v4_path_probe",
+  "n": 184,
+  "code_path_precision": 0.9946,
+  "code_path_recall": 0.6626,
+  "code_path_f1": 0.7786,
+  "code_path_exact": 0.1848,
+  "api_path_precision": 0.9285,
+  "api_path_recall": 0.791,
+  "api_path_f1": 0.8302,
+  "api_path_exact": 0.5978,
+  "parse_ok": 1.0,
+  "runtime_error_count": 0,
+  "metrics_path_fidelity_csv": "results/runs/qwen2.5-coder_14b__user_goal_v4_path_probe/metrics_path_fidelity.csv"
+}

@@ -1,0 +1,185 @@
+﻿task_id,repository_folder,model,run_name,prompt_version,exact_name_match,substring_name_match,name_token_f1,description_token_f1,parse_error,runtime_error,pred_use_case_name,gold_use_case_name
+usecase_v1_0000,jobic10__student-management-using-django,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.3158,,,Manage staff,Manage staff
+usecase_v1_0001,jobic10__student-management-using-django,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.1905,,,Delete student,Manage students
+usecase_v1_0002,jobic10__student-management-using-django,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0833,,,Delete course,Manage courses
+usecase_v1_0003,jobic10__student-management-using-django,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.1,,,Delete subject,Manage subjects
+usecase_v1_0004,jobic10__student-management-using-django,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.8,0.2609,,,Manage Sessions,Manage academic sessions
+usecase_v1_0005,jobic10__student-management-using-django,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.8,0.75,,,Take Attendance,Take student attendance
+usecase_v1_0006,jobic10__student-management-using-django,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.8,0.48,,,Update Attendance,Update student attendance
+usecase_v1_0007,jobic10__student-management-using-django,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.4444,0.4444,,,Edit Student's Result,Add or update student result
+usecase_v1_0008,jobic10__student-management-using-django,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.4545,,,Apply for Leave,Apply for leave
+usecase_v1_0009,jobic10__student-management-using-django,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.6087,,,View attendance,View attendance
+usecase_v1_0010,jobic10__student-management-using-django,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.8,0.2353,,,View Student Result,View result
+usecase_v1_0011,jobic10__student-management-using-django,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2857,0.24,,,View staff leave detail,Review leave applications
+usecase_v1_0012,jobic10__student-management-using-django,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2857,0.381,,,View staff feedback detail,Reply to feedback
+usecase_v1_0013,thakurpdhiraj__library_management_system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5714,0.303,,,Create Book,Add book and create inventory
+usecase_v1_0014,thakurpdhiraj__library_management_system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.2353,,,Edit Book,Search and update books
+usecase_v1_0015,thakurpdhiraj__library_management_system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,1,0.6667,0.2609,,,Delete book,Delete book or inventory
+usecase_v1_0016,thakurpdhiraj__library_management_system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.4211,,,Manage Users,Manage users
+usecase_v1_0017,thakurpdhiraj__library_management_system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.4,0.2581,,,Place Order,Order available book
+usecase_v1_0018,thakurpdhiraj__library_management_system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.6667,0.2667,,,View My Orders,View current orders
+usecase_v1_0019,thakurpdhiraj__library_management_system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.4706,,,View order history,View order history
+usecase_v1_0020,thakurpdhiraj__library_management_system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.5,,,Filter Overdue Orders,Filter overdue orders
+usecase_v1_0021,thakurpdhiraj__library_management_system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.1818,,,View order detail,Search orders
+usecase_v1_0022,thakurpdhiraj__library_management_system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.4762,,,Mark Order as Collected,Mark order as collected
+usecase_v1_0023,thakurpdhiraj__library_management_system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.4242,,,Return book,Mark order as returned and generate invoice
+usecase_v1_0024,thakurpdhiraj__library_management_system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0833,,,Login,Authenticate and access role-based views
+usecase_v1_0025,abdulwahid880__School-Management-system-in-laravel-,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.24,,,Create school,Manage schools
+usecase_v1_0026,abdulwahid880__School-Management-system-in-laravel-,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.4,0.1905,,,Register Student,Register school users
+usecase_v1_0027,abdulwahid880__School-Management-system-in-laravel-,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0909,,,Create Class,Manage classes and sections
+usecase_v1_0028,abdulwahid880__School-Management-system-in-laravel-,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.6667,,,Take Attendance,Take attendance
+usecase_v1_0029,abdulwahid880__School-Management-system-in-laravel-,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.8,0.3,,,Adjust student attendance,Adjust attendance
+usecase_v1_0030,abdulwahid880__School-Management-system-in-laravel-,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.5517,,,Calculate and Save Grades,Calculate and save grades
+usecase_v1_0031,abdulwahid880__School-Management-system-in-laravel-,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,1,0.8,0.3529,,,View grades detail,View grades
+usecase_v1_0032,abdulwahid880__School-Management-system-in-laravel-,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.3333,,,Create fee,Manage fees
+usecase_v1_0033,abdulwahid880__School-Management-system-in-laravel-,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2857,0.3478,,,Manage Account Sectors,Manage income and expenses
+usecase_v1_0034,abdulwahid880__School-Management-system-in-laravel-,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.2,,,Create exam,Manage exams
+usecase_v1_0035,abdulwahid880__School-Management-system-in-laravel-,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2857,0.2609,,,View academic notice detail,Manage academic content
+usecase_v1_0036,abdulwahid880__School-Management-system-in-laravel-,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.8,0.2857,,,Manage books,Manage library books
+usecase_v1_0037,abdulwahid880__School-Management-system-in-laravel-,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.3333,0.3158,,,Issue Book,Issue and return books
+usecase_v1_0038,abdulwahid880__School-Management-system-in-laravel-,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2222,0.1739,,,Import students from XLSX file,Import and export users
+usecase_v1_0039,4jean__lav_sms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.4,0.3158,,,Create Student,Manage student records
+usecase_v1_0040,4jean__lav_sms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.5517,,,Promote Students,Promote students
+usecase_v1_0041,4jean__lav_sms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,1,0.5,0.4167,,,Manage TimeTables,Manage timetable
+usecase_v1_0042,4jean__lav_sms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.2105,,,View payment detail,Manage payments
+usecase_v1_0043,4jean__lav_sms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.3333,0.6452,,,View student marks detail,Manage marks
+usecase_v1_0044,4jean__lav_sms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.25,0.4615,,,View exam marks detail,View and print marksheet
+usecase_v1_0045,4jean__lav_sms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2857,0.5385,,,View student marks tabulation,Generate tabulation sheet
+usecase_v1_0046,4jean__lav_sms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.4762,,,Create Class,Manage academic structure
+usecase_v1_0047,4jean__lav_sms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,1,0.8,0.375,,,View children detail,View children
+usecase_v1_0048,4jean__lav_sms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.3333,0.3158,,,Update user profile,Update own account
+usecase_v1_0049,4jean__lav_sms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.2222,,,Create Pin,Generate and verify pins
+usecase_v1_0050,openfun__marsha,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,1,0.8,0.5833,,,Create video,Create video resource
+usecase_v1_0051,openfun__marsha,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.8,0.32,,,Upload video,Initiate video upload
+usecase_v1_0052,openfun__marsha,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.6667,0.3704,,,Upload video end,Complete video upload
+usecase_v1_0053,openfun__marsha,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5714,0.3571,,,View video detail,View video in LMS
+usecase_v1_0054,openfun__marsha,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.25,0.56,,,Upload Timed Text Track,Upload subtitles or transcripts
+usecase_v1_0055,openfun__marsha,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.7,,,Upload video thumbnail,Upload video thumbnail
+usecase_v1_0056,openfun__marsha,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.4,0.3158,,,Upload document,Create document resource
+usecase_v1_0057,openfun__marsha,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5,0.3571,,,Initiate and complete document upload,Upload document file
+usecase_v1_0058,openfun__marsha,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,1,0.5,0.2353,,,Manage playlists,Manage playlist
+usecase_v1_0059,openfun__marsha,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.3704,,,Manage Playlist Access,Manage playlist access
+usecase_v1_0060,openfun__marsha,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.7778,,,Start live session,Start live session
+usecase_v1_0061,openfun__marsha,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.4444,0.4,,,Stop live video recording,Stop and harvest live session
+usecase_v1_0062,openfun__marsha,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5714,0.1739,,,Send XAPI statement,Send video analytics statement
+usecase_v1_0063,openfun__marsha,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.4,,,Create classroom,Create classroom
+usecase_v1_0064,openfun__marsha,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.3529,,,Upload Classroom Document,Upload classroom document
+usecase_v1_0065,mwinamijr__django-scms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5,0.3,,,View user profile detail,Authenticate and view profile
+usecase_v1_0066,mwinamijr__django-scms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.2857,,,Bulk Upload Teachers,Manage teacher accounts
+usecase_v1_0067,mwinamijr__django-scms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.3333,,,Upload Accountants,Manage accountant accounts
+usecase_v1_0068,mwinamijr__django-scms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.1818,,,Bulk Upload Teachers,Manage parent accounts
+usecase_v1_0069,mwinamijr__django-scms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.2963,,,Manage student records,Manage student records
+usecase_v1_0070,mwinamijr__django-scms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.3333,,,Bulk Upload Students,Bulk upload students
+usecase_v1_0071,mwinamijr__django-scms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.2143,,,Bulk Upload Student Classes,Manage academic structure
+usecase_v1_0072,mwinamijr__django-scms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5,0.4545,,,Bulk upload student classes,Bulk upload academic data
+usecase_v1_0073,mwinamijr__django-scms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.25,,,Upload Receipts,Record and allocate student payments
+usecase_v1_0074,mwinamijr__django-scms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.4444,0.32,,,Upload Student Receipts,Manage receipts and student debt overview
+usecase_v1_0075,mwinamijr__django-scms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2857,0.6207,,,Update student debt,Update or reverse debts
+usecase_v1_0076,mwinamijr__django-scms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.3333,0.3333,,,View teacher attendance detail,Record attendance
+usecase_v1_0077,mwinamijr__django-scms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.2857,,,Generate Timetable,Generate timetable
+usecase_v1_0078,mwinamijr__django-scms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2857,0.3571,,,Upload School Events,Manage academic calendar events
+usecase_v1_0079,tough-dev-school__education-backend,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.3333,0.2353,,,Purchase course,View course group offerings
+usecase_v1_0080,tough-dev-school__education-backend,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.4444,0.4138,,,Apply promocode to course,Check course price with promocode
+usecase_v1_0081,tough-dev-school__education-backend,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.4138,,,Create order draft,Create order draft
+usecase_v1_0082,tough-dev-school__education-backend,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.375,,,Purchase course,Purchase course
+usecase_v1_0083,tough-dev-school__education-backend,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.8,0.4375,,,Confirm order,Confirm paid order
+usecase_v1_0084,tough-dev-school__education-backend,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.6667,0.2857,,,View purchased courses,List purchased courses
+usecase_v1_0085,tough-dev-school__education-backend,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.3333,0.1739,,,View module detail,View learning modules
+usecase_v1_0086,tough-dev-school__education-backend,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.4,0.2609,,,View lesson detail,View lessons
+usecase_v1_0087,tough-dev-school__education-backend,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2857,0.25,,,View material detail,Read Notion learning material
+usecase_v1_0088,tough-dev-school__education-backend,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2857,0.381,,,Trigger material update,Refresh Notion material cache
+usecase_v1_0089,tough-dev-school__education-backend,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.2857,,,Submit Homework Answer,Submit homework answer
+usecase_v1_0090,tough-dev-school__education-backend,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.4286,,,React to homework answer,React to homework answer
+usecase_v1_0091,tough-dev-school__education-backend,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.1739,,,View crosscheck status,Review homework crosschecks
+usecase_v1_0092,tough-dev-school__education-backend,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.4,0.2609,,,Create diploma,Access diploma records
+usecase_v1_0093,tough-dev-school__education-backend,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.2,,,View user detail,List users
+usecase_v1_0094,tough-dev-school__education-backend,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.25,0.3333,,,Request password reset,Manage authentication and password recovery
+usecase_v1_0095,tough-dev-school__education-backend,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5714,0.3077,,,Process Tinkoff Payment Notification,Process payment notifications
+usecase_v1_0096,knowledgefactory4u__librarymanagementsystem,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.4,0.3077,,,Login to Admin Interface,Sign in to library admin panel
+usecase_v1_0097,knowledgefactory4u__librarymanagementsystem,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.3333,0.25,,,Manage books,List and paginate books
+usecase_v1_0098,knowledgefactory4u__librarymanagementsystem,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.5333,,,Search books,Search books
+usecase_v1_0099,knowledgefactory4u__librarymanagementsystem,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5714,0.5517,,,Create/Add/Register/Save Book,Create book
+usecase_v1_0100,knowledgefactory4u__librarymanagementsystem,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.5333,,,Update book,Update book
+usecase_v1_0101,knowledgefactory4u__librarymanagementsystem,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5,0.6,,,Remove book,Delete book
+usecase_v1_0102,knowledgefactory4u__librarymanagementsystem,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.2857,,,Manage authors,Manage authors
+usecase_v1_0103,knowledgefactory4u__librarymanagementsystem,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.2857,,,Manage categories,Manage categories
+usecase_v1_0104,knowledgefactory4u__librarymanagementsystem,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.3529,,,Manage publishers,Manage publishers
+usecase_v1_0105,knowledgefactory4u__librarymanagementsystem,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5,0.4211,,,Export CSV file,Export library data to CSV
+usecase_v1_0106,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5,0.2222,,,Register student,Register account
+usecase_v1_0107,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.3333,0.25,,,Change Password,Manage profile and password
+usecase_v1_0108,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5714,0.5,,,View Dashboard detail,View admin dashboard analytics
+usecase_v1_0109,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.3333,0.2,,,Manage Sessions,Manage news and events
+usecase_v1_0110,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.8,0.1481,,,Manage Sessions,Manage academic sessions
+usecase_v1_0111,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.2222,,,Manage Semesters,Manage semesters
+usecase_v1_0112,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.2353,,,Create Student,Manage students
+usecase_v1_0113,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.1053,,,Generate Lecturer PDF List,Manage lecturers
+usecase_v1_0114,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.3333,,,Add Parent,Manage parents
+usecase_v1_0115,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.1333,,,Create Program,Manage programs
+usecase_v1_0116,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.1,,,Add Course to Program,Manage courses
+usecase_v1_0117,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.25,0.3,,,Assign Course to Program,Allocate courses to lecturers
+usecase_v1_0118,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.8571,0.2222,,,Upload documentation for course,Upload course documentation
+usecase_v1_0119,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5714,0.4348,,,Upload video tutorial,Upload course video tutorials
+usecase_v1_0120,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,1,0.6667,0.1905,,,Drop courses,Register and drop courses
+usecase_v1_0121,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2857,0.4516,,,Add Score for Student,Submit student scores
+usecase_v1_0122,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5,0.3478,,,View grade result,View grade and assessment results
+usecase_v1_0123,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2222,0.0909,,,View grade result,Download registration form and result sheet
+usecase_v1_0124,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.3158,,,Delete quiz,Create and manage quizzes
+usecase_v1_0125,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.75,0.5263,,,Create Multiple Choice Question,Create multiple-choice questions
+usecase_v1_0126,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,1,0.5,0.3333,,,Take Quiz,Take quiz and continue incomplete quiz
+usecase_v1_0127,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5,0.3077,,,Mark quiz results,Review and mark quiz sittings
+usecase_v1_0128,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.3158,,,View quiz progress,View quiz progress
+usecase_v1_0129,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.6667,0.3704,,,Search for content,Search learning content
+usecase_v1_0130,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.4211,,,Create Invoice,Pay through payment gateway
+usecase_v1_0131,SkyCascade__SkyLearn,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.3333,0.375,,,Create Invoice,Create and view invoices
+usecase_v1_0132,adityagoyal222__django-lms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,1,0.6667,0.1739,,,Sign up,Sign up and authenticate
+usecase_v1_0133,adityagoyal222__django-lms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.381,,,Create course,Create course
+usecase_v1_0134,adityagoyal222__django-lms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.1905,,,Enroll in a course,Browse courses
+usecase_v1_0135,adityagoyal222__django-lms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.381,,,Enroll in course,Enroll in course
+usecase_v1_0136,adityagoyal222__django-lms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.3,,,Unenroll from course,Unenroll from course
+usecase_v1_0137,adityagoyal222__django-lms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.5882,,,Create Assignment,Create assignment
+usecase_v1_0138,adityagoyal222__django-lms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.5714,,,Update assignment,Update assignment
+usecase_v1_0139,adityagoyal222__django-lms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,1,0.8,0.2222,,,Delete assignment submission,Delete assignment
+usecase_v1_0140,adityagoyal222__django-lms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.6667,,,Submit Assignment,Submit assignment
+usecase_v1_0141,adityagoyal222__django-lms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.375,,,Delete Assignment Submission,Delete assignment submission
+usecase_v1_0142,adityagoyal222__django-lms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,1,0.8,0.9091,,,Grade Assignment,Grade assignment submission
+usecase_v1_0143,adityagoyal222__django-lms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.8,0.6667,,,Create resource,Create course resource
+usecase_v1_0144,adityagoyal222__django-lms,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.8,0.4286,,,Delete resource,Delete course resource
+usecase_v1_0145,engripaye__library-management-system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.8,0.5833,,,Add new book,Add book
+usecase_v1_0146,engripaye__library-management-system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.6667,0.32,,,List/Search/View Books,List books
+usecase_v1_0147,engripaye__library-management-system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.3158,,,Search books,Search books
+usecase_v1_0148,engripaye__library-management-system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.5556,,,View book detail,View book detail
+usecase_v1_0149,engripaye__library-management-system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.6667,0.3478,,,Register new user,Register library user
+usecase_v1_0150,engripaye__library-management-system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.6667,0.3,,,List/Search Users,List library users
+usecase_v1_0151,engripaye__library-management-system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.8,0.2069,,,Borrow a Book,Borrow book
+usecase_v1_0152,engripaye__library-management-system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.8571,0.381,,,Return a borrowed book,Return borrowed book
+usecase_v1_0153,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.4,0.2857,,,Create student,Manage student records
+usecase_v1_0154,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.2105,,,Create/Add/Register/Save Course,Manage courses
+usecase_v1_0155,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2857,0.3,,,Manage student courses,Add course to student
+usecase_v1_0156,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.5714,,,Remove course from student,Remove course from student
+usecase_v1_0157,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.3333,0.5263,,,Create passport,Manage student passport details
+usecase_v1_0158,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5,0.6316,,,Create review for a course,Add course review
+usecase_v1_0159,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.8,0.5556,,,Remove review,Remove course review
+usecase_v1_0160,mehmetpekdemir__Library-Management-System,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.3333,0.24,,,Manage books,List and view books
+usecase_v1_0161,mehmetpekdemir__Library-Management-System,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,1,0.5,0.1333,,,Search book,Search books
+usecase_v1_0162,mehmetpekdemir__Library-Management-System,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.3478,,,Create book,Create book
+usecase_v1_0163,mehmetpekdemir__Library-Management-System,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.381,,,Update book,Update book
+usecase_v1_0164,mehmetpekdemir__Library-Management-System,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5,0.4,,,Remove book,Delete book
+usecase_v1_0165,mehmetpekdemir__Library-Management-System,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.2222,,,Manage authors,Manage authors
+usecase_v1_0166,mehmetpekdemir__Library-Management-System,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.3333,,,Manage categories,Manage categories
+usecase_v1_0167,mehmetpekdemir__Library-Management-System,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.3529,,,Manage publishers,Manage publishers
+usecase_v1_0168,RameshMF__library-management-system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.4,0.2727,,,Manage books,Manage book catalog
+usecase_v1_0169,RameshMF__library-management-system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.4,0.5,,,Create user,Register library user
+usecase_v1_0170,RameshMF__library-management-system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.6667,0.6316,,,List/Search Users,List library users
+usecase_v1_0171,RameshMF__library-management-system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.75,,,Borrow book,Borrow book
+usecase_v1_0172,RameshMF__library-management-system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.5,,,Return book,Return book
+usecase_v1_0173,RameshMF__library-management-system,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.3529,,,View book detail,View book detail
+usecase_v1_0174,JacksonGao1999__StudentManagement,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5,0.2609,,,List/Search/View Students,List students with pagination
+usecase_v1_0175,JacksonGao1999__StudentManagement,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5714,0.4667,,,Check student name availability,Validate student name
+usecase_v1_0176,JacksonGao1999__StudentManagement,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.5263,,,Create student,Create student
+usecase_v1_0177,JacksonGao1999__StudentManagement,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2857,0.2727,,,Edit student information,View and update student
+usecase_v1_0178,JacksonGao1999__StudentManagement,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.4,0.3333,,,Delete student(s),Delete students
+usecase_v1_0179,JacksonGao1999__StudentManagement,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.1739,,,List/Search/View Departments,Load department options
+usecase_v1_0180,Asitha123__Java-Spring-boot-Student-Management-System,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.6667,0.3478,,,List/Search/View Students,List students
+usecase_v1_0181,Asitha123__Java-Spring-boot-Student-Management-System,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,0,0,0.25,0.5926,,,Save student,Open student create or edit form
+usecase_v1_0182,Asitha123__Java-Spring-boot-Student-Management-System,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.5714,,,Save student,Save student
+usecase_v1_0183,Asitha123__Java-Spring-boot-Student-Management-System,qwen2.5-coder:7b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.6667,,,Delete student,Delete student

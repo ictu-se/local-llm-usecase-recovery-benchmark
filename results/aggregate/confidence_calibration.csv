@@ -1,0 +1,3 @@
+﻿confidence_bin,n,confidence,exact_name_match,soft_success,name_token_f1
+0.90-1.00,113,0.9115,0.292,0.354,0.5769
+non-numeric,71,0.0,0.4366,0.6479,0.756

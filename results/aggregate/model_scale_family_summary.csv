@@ -1,0 +1,15 @@
+﻿model,run_name,n,exact_name_match,substring_name_match,name_token_f1,description_token_f1,soft_name_match,soft_name_token_f1,parse_error_count,runtime_error_count
+codegemma:7b,user_goal_v4_scale_family,184,0.1739,0.2011,0.3874,0.208,0.3696,0.426,62,0
+granite-code:3b,user_goal_v4_scale_family,184,0.0815,0.087,0.2458,0.1796,0.2337,0.3164,45,0
+granite-code:8b,user_goal_v4_scale_family,184,0.0707,0.0707,0.1827,0.1133,0.1848,0.218,84,0
+llama3.2:3b,user_goal_v4_scale_family,184,0.1902,0.25,0.4735,0.2889,0.4674,0.5458,7,0
+qwen2.5-coder:1.5b,user_goal_v4_scale_family,184,0.1359,0.1902,0.4159,0.2396,0.4293,0.5124,0,0
+qwen2.5-coder:14b,user_goal_v4_scale_family,184,0.3315,0.3967,0.6337,0.3803,0.7174,0.708,0,0
+qwen2.5-coder:3b,user_goal_v4_scale_family,184,0.2174,0.2717,0.5149,0.3262,0.5489,0.608,0,0
+qwen2.5-coder:7b,user_goal_v4_scale_family,184,0.2717,0.337,0.56,0.3613,0.6196,0.6484,0,0
+qwen2.5:1.5b,user_goal_v4_scale_family,184,0.1304,0.2011,0.455,0.3284,0.5109,0.5561,2,0
+qwen2.5:3b,user_goal_v4_scale_family,184,0.1957,0.2337,0.4782,0.3249,0.5326,0.596,0,0
+qwen2.5:7b,user_goal_v4_scale_family,184,0.2826,0.3533,0.586,0.3694,0.6957,0.6859,0,0
+qwen3:4b,user_goal_v4_scale_family,184,0.3098,0.3804,0.6148,0.4266,0.6467,0.68,1,0
+starcoder2:3b,user_goal_v4_scale_family,184,0.0,0.0,0.0,0.0,0.0,0.0,184,0
+starcoder2:7b,user_goal_v4_scale_family,184,0.0,0.0,0.0,0.0006,0.0,0.0016,182,0

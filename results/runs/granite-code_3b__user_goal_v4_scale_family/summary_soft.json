@@ -1,0 +1,8 @@
+﻿{
+  "model": "granite-code:3b",
+  "run_name": "user_goal_v4_scale_family",
+  "n": 184,
+  "soft_name_match": 0.2337,
+  "soft_name_token_f1": 0.3164,
+  "metrics_soft_csv": "results/runs/granite-code_3b__user_goal_v4_scale_family/metrics_soft.csv"
+}

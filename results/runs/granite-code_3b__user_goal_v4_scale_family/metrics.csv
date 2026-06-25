@@ -1,0 +1,185 @@
+﻿task_id,repository_folder,model,run_name,prompt_version,exact_name_match,substring_name_match,name_token_f1,description_token_f1,parse_error,runtime_error,pred_use_case_name,gold_use_case_name
+usecase_v1_0000,jobic10__student-management-using-django,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting value: line 1 column 1 (char 0),,,Manage staff
+usecase_v1_0001,jobic10__student-management-using-django,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting property name enclosed in double quotes: line 2 column 9 (char 10),,,Manage students
+usecase_v1_0002,jobic10__student-management-using-django,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting property name enclosed in double quotes: line 1 column 2 (char 1),,,Manage courses
+usecase_v1_0003,jobic10__student-management-using-django,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting property name enclosed in double quotes: line 2 column 9 (char 10),,,Manage subjects
+usecase_v1_0004,jobic10__student-management-using-django,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting property name enclosed in double quotes: line 1 column 2 (char 1),,,Manage academic sessions
+usecase_v1_0005,jobic10__student-management-using-django,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting property name enclosed in double quotes: line 2 column 9 (char 10),,,Take student attendance
+usecase_v1_0006,jobic10__student-management-using-django,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting value: line 1 column 1 (char 0),,,Update student attendance
+usecase_v1_0007,jobic10__student-management-using-django,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting property name enclosed in double quotes: line 2 column 9 (char 10),,,Add or update student result
+usecase_v1_0008,jobic10__student-management-using-django,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting property name enclosed in double quotes: line 2 column 9 (char 10),,,Apply for leave
+usecase_v1_0009,jobic10__student-management-using-django,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting property name enclosed in double quotes: line 2 column 13 (char 14),,,View attendance
+usecase_v1_0010,jobic10__student-management-using-django,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting property name enclosed in double quotes: line 2 column 8 (char 9),,,View result
+usecase_v1_0011,jobic10__student-management-using-django,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting property name enclosed in double quotes: line 2 column 9 (char 10),,,Review leave applications
+usecase_v1_0012,jobic10__student-management-using-django,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting property name enclosed in double quotes: line 2 column 9 (char 10),,,Reply to feedback
+usecase_v1_0013,thakurpdhiraj__library_management_system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2222,0.2857,,,Save a new book,Add book and create inventory
+usecase_v1_0014,thakurpdhiraj__library_management_system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.1739,,,Create/Add/Register/Save Book,Search and update books
+usecase_v1_0015,thakurpdhiraj__library_management_system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5714,0.2,,,Delete a book,Delete book or inventory
+usecase_v1_0016,thakurpdhiraj__library_management_system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.16,,,Create/Add/Register/Save user,Manage users
+usecase_v1_0017,thakurpdhiraj__library_management_system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.25,0.2,,,Create/Add/Register/Save Book,Order available book
+usecase_v1_0018,thakurpdhiraj__library_management_system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.3333,0.3529,,,View book detail,View current orders
+usecase_v1_0019,thakurpdhiraj__library_management_system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.6667,0.2,,,View order detail,View order history
+usecase_v1_0020,thakurpdhiraj__library_management_system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.4,0.2609,,,Manage orders,Filter overdue orders
+usecase_v1_0021,thakurpdhiraj__library_management_system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2857,0.2308,,,Find orders by user ID,Search orders
+usecase_v1_0022,thakurpdhiraj__library_management_system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.3125,,,Find orders,Mark order as collected
+usecase_v1_0023,thakurpdhiraj__library_management_system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.2564,,,Find orders,Mark order as returned and generate invoice
+usecase_v1_0024,thakurpdhiraj__library_management_system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting property name enclosed in double quotes: line 1 column 2 (char 1),,,Authenticate and access role-based views
+usecase_v1_0025,abdulwahid880__School-Management-system-in-laravel-,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.1053,,,Create/Add/Register/Save student,Manage schools
+usecase_v1_0026,abdulwahid880__School-Management-system-in-laravel-,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.25,0.0833,,,Create/Add/Register/Save student,Register school users
+usecase_v1_0027,abdulwahid880__School-Management-system-in-laravel-,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0476,,,Create/Add/Register/Save student,Manage classes and sections
+usecase_v1_0028,abdulwahid880__School-Management-system-in-laravel-,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.3704,,,View attendances of students in a section,Take attendance
+usecase_v1_0029,abdulwahid880__School-Management-system-in-laravel-,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.2857,,,Adjust Attendance,Adjust attendance
+usecase_v1_0030,abdulwahid880__School-Management-system-in-laravel-,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2222,0.5161,,,Calculate marks for a course,Calculate and save grades
+usecase_v1_0031,abdulwahid880__School-Management-system-in-laravel-,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.4,0.3,,,View student grade,View grades
+usecase_v1_0032,abdulwahid880__School-Management-system-in-laravel-,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.1,,,Adjust attendance,Manage fees
+usecase_v1_0033,abdulwahid880__School-Management-system-in-laravel-,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2857,0.3333,,,Manage Account Sectors,Manage income and expenses
+usecase_v1_0034,abdulwahid880__School-Management-system-in-laravel-,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.2353,,,Create exam,Manage exams
+usecase_v1_0035,abdulwahid880__School-Management-system-in-laravel-,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting property name enclosed in double quotes: line 2 column 5 (char 6),,,Manage academic content
+usecase_v1_0036,abdulwahid880__School-Management-system-in-laravel-,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.8,0.1667,,,Manage books,Manage library books
+usecase_v1_0037,abdulwahid880__School-Management-system-in-laravel-,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.6667,0.3158,,,Issue books,Issue and return books
+usecase_v1_0038,abdulwahid880__School-Management-system-in-laravel-,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,,,Create/Add/Register/Save student,Import and export users
+usecase_v1_0039,4jean__lav_sms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2222,0.0,,,Create/Add/Register/Save student record,Manage student records
+usecase_v1_0040,4jean__lav_sms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5,0.5185,,, students.promotion,Promote students
+usecase_v1_0041,4jean__lav_sms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.3478,,,Timetables,Manage timetable
+usecase_v1_0042,4jean__lav_sms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.4444,,,Payment Management,Manage payments
+usecase_v1_0043,4jean__lav_sms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.8,0.25,,,Manage student marks,Manage marks
+usecase_v1_0044,4jean__lav_sms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0833,,,Marking System,View and print marksheet
+usecase_v1_0045,4jean__lav_sms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.087,,,Marking System,Generate tabulation sheet
+usecase_v1_0046,4jean__lav_sms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.4,0.4444,,,Manage Classes,Manage academic structure
+usecase_v1_0047,4jean__lav_sms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5,0.2727,,,List children,View children
+usecase_v1_0048,4jean__lav_sms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.1818,,,Edit profile,Update own account
+usecase_v1_0049,4jean__lav_sms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.4,,,Pin Management,Generate and verify pins
+usecase_v1_0050,openfun__marsha,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting value: line 1 column 8 (char 7),,,Create video resource
+usecase_v1_0051,openfun__marsha,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting value: line 1 column 1 (char 0),,,Initiate video upload
+usecase_v1_0052,openfun__marsha,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting property name enclosed in double quotes: line 1 column 2 (char 1),,,Complete video upload
+usecase_v1_0053,openfun__marsha,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting value: line 1 column 1 (char 0),,,View video in LMS
+usecase_v1_0054,openfun__marsha,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting property name enclosed in double quotes: line 1 column 2 (char 1),,,Upload subtitles or transcripts
+usecase_v1_0055,openfun__marsha,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting value: line 1 column 14 (char 13),,,Upload video thumbnail
+usecase_v1_0056,openfun__marsha,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting value: line 1 column 1 (char 0),,,Create document resource
+usecase_v1_0057,openfun__marsha,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting property name enclosed in double quotes: line 1 column 2 (char 1),,,Upload document file
+usecase_v1_0058,openfun__marsha,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting property name enclosed in double quotes: line 1 column 2 (char 1),,,Manage playlist
+usecase_v1_0059,openfun__marsha,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting value: line 1 column 1 (char 0),,,Manage playlist access
+usecase_v1_0060,openfun__marsha,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting value: line 1 column 1 (char 0),,,Start live session
+usecase_v1_0061,openfun__marsha,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting value: line 1 column 11 (char 10),,,Stop and harvest live session
+usecase_v1_0062,openfun__marsha,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting property name enclosed in double quotes: line 1 column 2 (char 1),,,Send video analytics statement
+usecase_v1_0063,openfun__marsha,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Extra data: line 1 column 3 (char 2),,,Create classroom
+usecase_v1_0064,openfun__marsha,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Extra data: line 1 column 3 (char 2),,,Upload classroom document
+usecase_v1_0065,mwinamijr__django-scms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.1333,,,Upload Teachers,Authenticate and view profile
+usecase_v1_0066,mwinamijr__django-scms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.25,0.2105,,,Create/Add/Register/Save Teacher,Manage teacher accounts
+usecase_v1_0067,mwinamijr__django-scms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,,,Upload Teachers,Manage accountant accounts
+usecase_v1_0068,mwinamijr__django-scms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,,,Create/Add/Register/Save Teacher,Manage parent accounts
+usecase_v1_0069,mwinamijr__django-scms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0606,,,Bulk Upload Students,Manage student records
+usecase_v1_0070,mwinamijr__django-scms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting value: line 2 column 18 (char 19),,,Bulk upload students
+usecase_v1_0071,mwinamijr__django-scms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.2069,,,Bulk upload student-class records,Manage academic structure
+usecase_v1_0072,mwinamijr__django-scms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.4444,0.1429,,,Bulk upload student-class records,Bulk upload academic data
+usecase_v1_0073,mwinamijr__django-scms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,,,,Record and allocate student payments
+usecase_v1_0074,mwinamijr__django-scms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting value: line 1 column 1 (char 0),,,Manage receipts and student debt overview
+usecase_v1_0075,mwinamijr__django-scms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting value: line 2 column 18 (char 19),,,Update or reverse debts
+usecase_v1_0076,mwinamijr__django-scms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.3333,0.3448,,,View teacher attendance records,Record attendance
+usecase_v1_0077,mwinamijr__django-scms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.2,,,Generate Timetable,Generate timetable
+usecase_v1_0078,mwinamijr__django-scms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5714,0.1875,,,Manage school events,Manage academic calendar events
+usecase_v1_0079,tough-dev-school__education-backend,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5714,0.16,,,View course detail,View course group offerings
+usecase_v1_0080,tough-dev-school__education-backend,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting property name enclosed in double quotes: line 1 column 2 (char 1),,,Check course price with promocode
+usecase_v1_0081,tough-dev-school__education-backend,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.6667,0.48,,,Order draft creation,Create order draft
+usecase_v1_0082,tough-dev-school__education-backend,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.2424,,,Create/Add/Register/Save student,Purchase course
+usecase_v1_0083,tough-dev-school__education-backend,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.2,,,Create/Add/Register/Save book,Confirm paid order
+usecase_v1_0084,tough-dev-school__education-backend,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.6,0.0702,,,"List of courses, purchased by particular user",List purchased courses
+usecase_v1_0085,tough-dev-school__education-backend,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.3333,0.1905,,,View module detail,View learning modules
+usecase_v1_0086,tough-dev-school__education-backend,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.4,0.2,,,View lesson detail,View lessons
+usecase_v1_0087,tough-dev-school__education-backend,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2857,0.1667,,,View material detail,Read Notion learning material
+usecase_v1_0088,tough-dev-school__education-backend,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.3333,0.2857,,,Material update,Refresh Notion material cache
+usecase_v1_0089,tough-dev-school__education-backend,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting value: line 2 column 26 (char 27),,,Submit homework answer
+usecase_v1_0090,tough-dev-school__education-backend,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.3478,,,Manage book reactions,React to homework answer
+usecase_v1_0091,tough-dev-school__education-backend,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0833,,,Crosscheck status by question,Review homework crosschecks
+usecase_v1_0092,tough-dev-school__education-backend,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.25,0.25,,,Create/Add/Register/Save diploma,Access diploma records
+usecase_v1_0093,tough-dev-school__education-backend,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.4,0.125,,,View user list,List users
+usecase_v1_0094,tough-dev-school__education-backend,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.25,0.3704,,,Request password reset,Manage authentication and password recovery
+usecase_v1_0095,tough-dev-school__education-backend,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.25,0.32,,,Process Tinkoff and Dolyame payments,Process payment notifications
+usecase_v1_0096,knowledgefactory4u__librarymanagementsystem,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.3333,,,Login,Sign in to library admin panel
+usecase_v1_0097,knowledgefactory4u__librarymanagementsystem,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.1429,,,Create/Add/Register/Save Book,List and paginate books
+usecase_v1_0098,knowledgefactory4u__librarymanagementsystem,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.4,,,Search books,Search books
+usecase_v1_0099,knowledgefactory4u__librarymanagementsystem,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5714,0.5333,,,Create/Add/Register/Save Book,Create book
+usecase_v1_0100,knowledgefactory4u__librarymanagementsystem,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.1,,,Manage books,Update book
+usecase_v1_0101,knowledgefactory4u__librarymanagementsystem,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.1818,,,Manage books,Delete book
+usecase_v1_0102,knowledgefactory4u__librarymanagementsystem,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0488,,,Create/Add/Register/Save Author,Manage authors
+usecase_v1_0103,knowledgefactory4u__librarymanagementsystem,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.1143,,,Manage categories,Manage categories
+usecase_v1_0104,knowledgefactory4u__librarymanagementsystem,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.1212,,,Manage Publishers,Manage publishers
+usecase_v1_0105,knowledgefactory4u__librarymanagementsystem,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5,0.4211,,,Export CSV file,Export library data to CSV
+usecase_v1_0106,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting value: line 2 column 18 (char 19),,,Register account
+usecase_v1_0107,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting value: line 1 column 13 (char 12),,,Manage profile and password
+usecase_v1_0108,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,,,Create/Add/Register/Save student,View admin dashboard analytics
+usecase_v1_0109,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0476,,,Create/Add/Register/Save student,Manage news and events
+usecase_v1_0110,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,,,Create/Add/Register/Save student,Manage academic sessions
+usecase_v1_0111,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.05,,,Create/Add/Register/Save student,Manage semesters
+usecase_v1_0112,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0833,,,Create/Add/Register/Save student,Manage students
+usecase_v1_0113,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,,,Create/Add/Register/Save student,Manage lecturers
+usecase_v1_0114,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,,,,Manage parents
+usecase_v1_0115,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting value: line 1 column 10 (char 9),,,Manage programs
+usecase_v1_0116,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting value: line 1 column 10 (char 9),,,Manage courses
+usecase_v1_0117,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0476,,,Create/Add/Register/Save student,Allocate courses to lecturers
+usecase_v1_0118,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.4,0.375,,,Course Registration,Upload course documentation
+usecase_v1_0119,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.3333,0.3529,,,Course Registration,Upload course video tutorials
+usecase_v1_0120,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting property name enclosed in double quotes: line 1 column 2 (char 1),,,Register and drop courses
+usecase_v1_0121,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting property name enclosed in double quotes: line 2 column 5 (char 6),,,Submit student scores
+usecase_v1_0122,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.2,,,Add score for students,View grade and assessment results
+usecase_v1_0123,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0667,,,Add score for a specific course,Download registration form and result sheet
+usecase_v1_0124,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting value: line 1 column 1 (char 0),,,Create and manage quizzes
+usecase_v1_0125,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2222,0.1,,,Create/Add/Register/Save student,Create multiple-choice questions
+usecase_v1_0126,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2222,0.2609,,,View quiz detail,Take quiz and continue incomplete quiz
+usecase_v1_0127,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting value: line 1 column 1 (char 0),,,Review and mark quiz sittings
+usecase_v1_0128,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Expecting value: line 1 column 1 (char 0),,,View quiz progress
+usecase_v1_0129,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.125,,,Upload video,Search learning content
+usecase_v1_0130,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.1667,,,Create/Add/Register/Save student,Pay through payment gateway
+usecase_v1_0131,SkyCascade__SkyLearn,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2222,0.1429,,,Create/Add/Register/Save student,Create and view invoices
+usecase_v1_0132,adityagoyal222__django-lms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.4444,,,Login,Sign up and authenticate
+usecase_v1_0133,adityagoyal222__django-lms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.5714,,,Create course,Create course
+usecase_v1_0134,adityagoyal222__django-lms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.2222,,,Enroll/Unenroll Course,Browse courses
+usecase_v1_0135,adityagoyal222__django-lms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.8571,0.5882,,,Enroll in a course,Enroll in course
+usecase_v1_0136,adityagoyal222__django-lms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.8571,0.4615,,,Unenroll from a course,Unenroll from course
+usecase_v1_0137,adityagoyal222__django-lms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2857,0.3,,,Create/Add/Register/Save student,Create assignment
+usecase_v1_0138,adityagoyal222__django-lms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.1176,,,Create/Add/Register/Save student,Update assignment
+usecase_v1_0139,adityagoyal222__django-lms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.087,,,Create/Add/Register/Save student,Delete assignment
+usecase_v1_0140,adityagoyal222__django-lms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.7059,,,Submit Assignment,Submit assignment
+usecase_v1_0141,adityagoyal222__django-lms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.3333,0.24,,,View assignment detail,Delete assignment submission
+usecase_v1_0142,adityagoyal222__django-lms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.2222,,,Create/Add/Register/Save student,Grade assignment submission
+usecase_v1_0143,adityagoyal222__django-lms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.8,0.75,,,Create resource,Create course resource
+usecase_v1_0144,adityagoyal222__django-lms,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.8,0.4615,,,Delete resource,Delete course resource
+usecase_v1_0145,engripaye__library-management-system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5,0.4545,,,Create book,Add book
+usecase_v1_0146,engripaye__library-management-system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.2105,,,View book detail,List books
+usecase_v1_0147,engripaye__library-management-system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.2727,,,Create book,Search books
+usecase_v1_0148,engripaye__library-management-system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.2941,,,View book detail,View book detail
+usecase_v1_0149,engripaye__library-management-system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,Invalid control character at: line 7 column 93 (char 383),,,Register library user
+usecase_v1_0150,engripaye__library-management-system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.8,0.1,,,List users,List library users
+usecase_v1_0151,engripaye__library-management-system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.8,0.3,,,Borrow a Book,Borrow book
+usecase_v1_0152,engripaye__library-management-system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.3333,0.4,,,Borrow a book,Return borrowed book
+usecase_v1_0153,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.6667,0.2222,,,Manage student courses,Manage student records
+usecase_v1_0154,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.1667,,,Create/Add/Register/Save student,Manage courses
+usecase_v1_0155,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2857,0.1538,,,Manage student courses,Add course to student
+usecase_v1_0156,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2857,0.25,,,Manage student courses,Remove course from student
+usecase_v1_0157,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.75,0.3636,,,Save student passport details,Manage student passport details
+usecase_v1_0158,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5,0.6667,,,Create/Add/Register/Save Review,Add course review
+usecase_v1_0159,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.1,,,Manage student reviews,Remove course review
+usecase_v1_0160,mehmetpekdemir__Library-Management-System,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.1333,,,Create/Add/Register/Save Book,List and view books
+usecase_v1_0161,mehmetpekdemir__Library-Management-System,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,1,0.6667,0.4,,,Search books by keyword,Search books
+usecase_v1_0162,mehmetpekdemir__Library-Management-System,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.3333,,,Create book,Create book
+usecase_v1_0163,mehmetpekdemir__Library-Management-System,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2857,0.0833,,,Create/Add/Register/Save Book,Update book
+usecase_v1_0164,mehmetpekdemir__Library-Management-System,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.2857,0.1739,,,Create/Add/Register/Save Book,Delete book
+usecase_v1_0165,mehmetpekdemir__Library-Management-System,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.16,,,Create/Add/Register/Save book,Manage authors
+usecase_v1_0166,mehmetpekdemir__Library-Management-System,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.2609,,,Manage categories,Manage categories
+usecase_v1_0167,mehmetpekdemir__Library-Management-System,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.0,,,Manage publishers,Manage publishers
+usecase_v1_0168,RameshMF__library-management-system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.4,0.2,,,Manage books,Manage book catalog
+usecase_v1_0169,RameshMF__library-management-system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.4,0.6154,,,Create user,Register library user
+usecase_v1_0170,RameshMF__library-management-system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.1,,,View user detail,List library users
+usecase_v1_0171,RameshMF__library-management-system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.6667,0.6667,,,Borrow/Return a book,Borrow book
+usecase_v1_0172,RameshMF__library-management-system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.4286,,,Return book,Return book
+usecase_v1_0173,RameshMF__library-management-system,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.3333,,,View book detail,View book detail
+usecase_v1_0174,JacksonGao1999__StudentManagement,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0,,, student management,List students with pagination
+usecase_v1_0175,JacksonGao1999__StudentManagement,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.4,0.1333,,, student-crud,Validate student name
+usecase_v1_0176,JacksonGao1999__StudentManagement,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5,0.0488,,, student management,Create student
+usecase_v1_0177,JacksonGao1999__StudentManagement,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.0,0.0952,,, students management,View and update student
+usecase_v1_0178,JacksonGao1999__StudentManagement,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5,0.1111,,, students management,Delete students
+usecase_v1_0179,JacksonGao1999__StudentManagement,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.3333,0.1,,,View department detail,Load department options
+usecase_v1_0180,Asitha123__Java-Spring-boot-Student-Management-System,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.375,,,List students,List students
+usecase_v1_0181,Asitha123__Java-Spring-boot-Student-Management-System,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.25,0.4,,,Save student,Open student create or edit form
+usecase_v1_0182,Asitha123__Java-Spring-boot-Student-Management-System,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,1,1,1.0,0.4211,,,Save student,Save student
+usecase_v1_0183,Asitha123__Java-Spring-boot-Student-Management-System,granite-code:3b,user_goal_v4_scale_family,user_goal_v4,0,0,0.5,0.4286,,,Save student,Delete student

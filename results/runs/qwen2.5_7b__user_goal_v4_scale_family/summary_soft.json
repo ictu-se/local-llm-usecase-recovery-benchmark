@@ -1,0 +1,8 @@
+﻿{
+  "model": "qwen2.5:7b",
+  "run_name": "user_goal_v4_scale_family",
+  "n": 184,
+  "soft_name_match": 0.6957,
+  "soft_name_token_f1": 0.6859,
+  "metrics_soft_csv": "results/runs/qwen2.5_7b__user_goal_v4_scale_family/metrics_soft.csv"
+}

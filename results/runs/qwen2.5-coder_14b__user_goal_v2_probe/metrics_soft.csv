@@ -1,0 +1,11 @@
+﻿task_id,repository_folder,soft_name_match,soft_name_token_f1,pred_use_case_name,gold_use_case_name
+usecase_v1_0000,jobic10__student-management-using-django,1,1.0,Manage Staff,Manage staff
+usecase_v1_0001,jobic10__student-management-using-django,1,1.0,Manage Students,Manage students
+usecase_v1_0002,jobic10__student-management-using-django,1,1.0,Manage Courses,Manage courses
+usecase_v1_0003,jobic10__student-management-using-django,1,1.0,Manage Subjects,Manage subjects
+usecase_v1_0004,jobic10__student-management-using-django,1,0.8,Manage Sessions,Manage academic sessions
+usecase_v1_0005,jobic10__student-management-using-django,0,0.4,Manage Attendance,Take student attendance
+usecase_v1_0006,jobic10__student-management-using-django,0,0.4,Manage Attendance,Update student attendance
+usecase_v1_0007,jobic10__student-management-using-django,1,0.5714,Manage Student Results,Add or update student result
+usecase_v1_0008,jobic10__student-management-using-django,0,0.0,Manage Attendance and Results,Apply for leave
+usecase_v1_0009,jobic10__student-management-using-django,0,0.5,Manage Attendance,View attendance

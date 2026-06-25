@@ -1,0 +1,8 @@
+﻿{
+  "model": "qwen2.5-coder:14b",
+  "run_name": "user_goal_v4_no_api_probe",
+  "n": 184,
+  "soft_name_match": 0.4457,
+  "soft_name_token_f1": 0.5636,
+  "metrics_soft_csv": "results/runs/qwen2.5-coder_14b__user_goal_v4_no_api_probe/metrics_soft.csv"
+}

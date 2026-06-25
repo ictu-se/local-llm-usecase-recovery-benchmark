@@ -1,0 +1,6 @@
+﻿domain,n,exact_name_match,substring_name_match,name_token_f1,description_token_f1
+Educational media,15,0.1333,0.4,0.6003,0.3869
+Learning management,56,0.375,0.4107,0.6368,0.392
+Library management,44,0.4318,0.5,0.7504,0.3861
+School management,39,0.2308,0.2564,0.5132,0.3848
+Student management,30,0.4333,0.4333,0.7053,0.4077

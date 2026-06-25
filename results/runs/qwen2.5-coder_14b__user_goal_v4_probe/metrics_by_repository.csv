@@ -1,0 +1,17 @@
+﻿repository_folder,n,actor_exact_match,actor_token_f1,exact_name_match,substring_name_match,name_token_f1,description_token_f1,valid_prediction
+4jean__lav_sms,11,1.0,1.0,0.2727,0.2727,0.5489,0.4863,1.0
+AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,7,1.0,1.0,0.2857,0.2857,0.668,0.5488,1.0
+Asitha123__Java-Spring-boot-Student-Management-System,4,1.0,1.0,0.5,0.5,0.625,0.4288,1.0
+JacksonGao1999__StudentManagement,6,1.0,1.0,0.3333,0.3333,0.619,0.3351,1.0
+RameshMF__library-management-system,6,1.0,1.0,0.5,0.5,0.7,0.4636,1.0
+SkyCascade__SkyLearn,26,1.0,1.0,0.2692,0.3462,0.5817,0.3568,1.0
+abdulwahid880__School-Management-system-in-laravel-,14,1.0,1.0,0.2857,0.3571,0.5666,0.348,1.0
+adityagoyal222__django-lms,13,1.0,1.0,0.6923,0.6923,0.8462,0.4921,1.0
+engripaye__library-management-system,8,1.0,1.0,0.25,0.25,0.7863,0.4238,1.0
+jobic10__student-management-using-django,13,1.0,1.0,0.5385,0.5385,0.7899,0.3589,1.0
+knowledgefactory4u__librarymanagementsystem,10,1.0,1.0,0.5,0.5,0.7894,0.4203,1.0
+mehmetpekdemir__Library-Management-System,8,1.0,1.0,0.75,0.75,0.8542,0.3163,1.0
+mwinamijr__django-scms,14,1.0,1.0,0.1429,0.1429,0.4319,0.3419,1.0
+openfun__marsha,15,1.0,1.0,0.1333,0.4,0.6003,0.3869,1.0
+thakurpdhiraj__library_management_system,12,1.0,1.0,0.25,0.5,0.6499,0.3401,1.0
+tough-dev-school__education-backend,17,1.0,1.0,0.2941,0.2941,0.5612,0.3694,1.0

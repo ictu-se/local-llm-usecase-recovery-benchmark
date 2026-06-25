@@ -1,0 +1,6 @@
+﻿category,count,percent
+Exact match,64,0.3478
+Near match / phrasing,28,0.1522
+Too narrow,6,0.0326
+Too broad,16,0.087
+Semantic drift,70,0.3804

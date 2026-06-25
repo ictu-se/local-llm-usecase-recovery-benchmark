@@ -1,0 +1,12 @@
+﻿{
+  "model": "granite-code:8b",
+  "run_name": "user_goal_v4_scale_family",
+  "n": 184,
+  "exact_name_match": 0.0707,
+  "substring_name_match": 0.0707,
+  "name_token_f1": 0.1827,
+  "description_token_f1": 0.1133,
+  "parse_error_count": 84,
+  "runtime_error_count": 0,
+  "metrics_csv": "results/runs/granite-code_8b__user_goal_v4_scale_family/metrics.csv"
+}

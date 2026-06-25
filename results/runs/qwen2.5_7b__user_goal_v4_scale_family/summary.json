@@ -1,0 +1,12 @@
+﻿{
+  "model": "qwen2.5:7b",
+  "run_name": "user_goal_v4_scale_family",
+  "n": 184,
+  "exact_name_match": 0.2826,
+  "substring_name_match": 0.3533,
+  "name_token_f1": 0.586,
+  "description_token_f1": 0.3694,
+  "parse_error_count": 0,
+  "runtime_error_count": 0,
+  "metrics_csv": "results/runs/qwen2.5_7b__user_goal_v4_scale_family/metrics.csv"
+}

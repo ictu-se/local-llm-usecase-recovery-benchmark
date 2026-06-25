@@ -1,0 +1,11 @@
+﻿task_id,repository_folder,model,run_name,prompt_version,exact_name_match,substring_name_match,name_token_f1,description_token_f1,parse_error,runtime_error,pred_use_case_name,gold_use_case_name
+usecase_v1_0000,jobic10__student-management-using-django,qwen2.5-coder:14b,user_goal_v2_probe,user_goal_v2,1,1,1.0,0.2727,,,Manage Staff,Manage staff
+usecase_v1_0001,jobic10__student-management-using-django,qwen2.5-coder:14b,user_goal_v2_probe,user_goal_v2,1,1,1.0,0.1667,,,Manage Students,Manage students
+usecase_v1_0002,jobic10__student-management-using-django,qwen2.5-coder:14b,user_goal_v2_probe,user_goal_v2,1,1,1.0,0.2308,,,Manage Courses,Manage courses
+usecase_v1_0003,jobic10__student-management-using-django,qwen2.5-coder:14b,user_goal_v2_probe,user_goal_v2,1,1,1.0,0.2609,,,Manage Subjects,Manage subjects
+usecase_v1_0004,jobic10__student-management-using-django,qwen2.5-coder:14b,user_goal_v2_probe,user_goal_v2,0,0,0.8,0.2222,,,Manage Sessions,Manage academic sessions
+usecase_v1_0005,jobic10__student-management-using-django,qwen2.5-coder:14b,user_goal_v2_probe,user_goal_v2,0,0,0.4,0.3077,,,Manage Attendance,Take student attendance
+usecase_v1_0006,jobic10__student-management-using-django,qwen2.5-coder:14b,user_goal_v2_probe,user_goal_v2,0,0,0.4,0.1481,,,Manage Attendance,Update student attendance
+usecase_v1_0007,jobic10__student-management-using-django,qwen2.5-coder:14b,user_goal_v2_probe,user_goal_v2,0,0,0.25,0.1053,,,Manage Student Results,Add or update student result
+usecase_v1_0008,jobic10__student-management-using-django,qwen2.5-coder:14b,user_goal_v2_probe,user_goal_v2,0,0,0.0,0.0571,,,Manage Attendance and Results,Apply for leave
+usecase_v1_0009,jobic10__student-management-using-django,qwen2.5-coder:14b,user_goal_v2_probe,user_goal_v2,0,0,0.5,0.4545,,,Manage Attendance,View attendance

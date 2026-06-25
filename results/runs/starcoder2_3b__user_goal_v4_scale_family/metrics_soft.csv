@@ -1,0 +1,185 @@
+﻿task_id,repository_folder,soft_name_match,soft_name_token_f1,pred_use_case_name,gold_use_case_name
+usecase_v1_0000,jobic10__student-management-using-django,0,0.0,,Manage staff
+usecase_v1_0001,jobic10__student-management-using-django,0,0.0,,Manage students
+usecase_v1_0002,jobic10__student-management-using-django,0,0.0,,Manage courses
+usecase_v1_0003,jobic10__student-management-using-django,0,0.0,,Manage subjects
+usecase_v1_0004,jobic10__student-management-using-django,0,0.0,,Manage academic sessions
+usecase_v1_0005,jobic10__student-management-using-django,0,0.0,,Take student attendance
+usecase_v1_0006,jobic10__student-management-using-django,0,0.0,,Update student attendance
+usecase_v1_0007,jobic10__student-management-using-django,0,0.0,,Add or update student result
+usecase_v1_0008,jobic10__student-management-using-django,0,0.0,,Apply for leave
+usecase_v1_0009,jobic10__student-management-using-django,0,0.0,,View attendance
+usecase_v1_0010,jobic10__student-management-using-django,0,0.0,,View result
+usecase_v1_0011,jobic10__student-management-using-django,0,0.0,,Review leave applications
+usecase_v1_0012,jobic10__student-management-using-django,0,0.0,,Reply to feedback
+usecase_v1_0013,thakurpdhiraj__library_management_system,0,0.0,,Add book and create inventory
+usecase_v1_0014,thakurpdhiraj__library_management_system,0,0.0,,Search and update books
+usecase_v1_0015,thakurpdhiraj__library_management_system,0,0.0,,Delete book or inventory
+usecase_v1_0016,thakurpdhiraj__library_management_system,0,0.0,,Manage users
+usecase_v1_0017,thakurpdhiraj__library_management_system,0,0.0,,Order available book
+usecase_v1_0018,thakurpdhiraj__library_management_system,0,0.0,,View current orders
+usecase_v1_0019,thakurpdhiraj__library_management_system,0,0.0,,View order history
+usecase_v1_0020,thakurpdhiraj__library_management_system,0,0.0,,Filter overdue orders
+usecase_v1_0021,thakurpdhiraj__library_management_system,0,0.0,,Search orders
+usecase_v1_0022,thakurpdhiraj__library_management_system,0,0.0,,Mark order as collected
+usecase_v1_0023,thakurpdhiraj__library_management_system,0,0.0,,Mark order as returned and generate invoice
+usecase_v1_0024,thakurpdhiraj__library_management_system,0,0.0,,Authenticate and access role-based views
+usecase_v1_0025,abdulwahid880__School-Management-system-in-laravel-,0,0.0,,Manage schools
+usecase_v1_0026,abdulwahid880__School-Management-system-in-laravel-,0,0.0,,Register school users
+usecase_v1_0027,abdulwahid880__School-Management-system-in-laravel-,0,0.0,,Manage classes and sections
+usecase_v1_0028,abdulwahid880__School-Management-system-in-laravel-,0,0.0,,Take attendance
+usecase_v1_0029,abdulwahid880__School-Management-system-in-laravel-,0,0.0,,Adjust attendance
+usecase_v1_0030,abdulwahid880__School-Management-system-in-laravel-,0,0.0,,Calculate and save grades
+usecase_v1_0031,abdulwahid880__School-Management-system-in-laravel-,0,0.0,,View grades
+usecase_v1_0032,abdulwahid880__School-Management-system-in-laravel-,0,0.0,,Manage fees
+usecase_v1_0033,abdulwahid880__School-Management-system-in-laravel-,0,0.0,,Manage income and expenses
+usecase_v1_0034,abdulwahid880__School-Management-system-in-laravel-,0,0.0,,Manage exams
+usecase_v1_0035,abdulwahid880__School-Management-system-in-laravel-,0,0.0,,Manage academic content
+usecase_v1_0036,abdulwahid880__School-Management-system-in-laravel-,0,0.0,,Manage library books
+usecase_v1_0037,abdulwahid880__School-Management-system-in-laravel-,0,0.0,,Issue and return books
+usecase_v1_0038,abdulwahid880__School-Management-system-in-laravel-,0,0.0,,Import and export users
+usecase_v1_0039,4jean__lav_sms,0,0.0,,Manage student records
+usecase_v1_0040,4jean__lav_sms,0,0.0,,Promote students
+usecase_v1_0041,4jean__lav_sms,0,0.0,,Manage timetable
+usecase_v1_0042,4jean__lav_sms,0,0.0,,Manage payments
+usecase_v1_0043,4jean__lav_sms,0,0.0,,Manage marks
+usecase_v1_0044,4jean__lav_sms,0,0.0,,View and print marksheet
+usecase_v1_0045,4jean__lav_sms,0,0.0,,Generate tabulation sheet
+usecase_v1_0046,4jean__lav_sms,0,0.0,,Manage academic structure
+usecase_v1_0047,4jean__lav_sms,0,0.0,,View children
+usecase_v1_0048,4jean__lav_sms,0,0.0,,Update own account
+usecase_v1_0049,4jean__lav_sms,0,0.0,,Generate and verify pins
+usecase_v1_0050,openfun__marsha,0,0.0,,Create video resource
+usecase_v1_0051,openfun__marsha,0,0.0,,Initiate video upload
+usecase_v1_0052,openfun__marsha,0,0.0,,Complete video upload
+usecase_v1_0053,openfun__marsha,0,0.0,,View video in LMS
+usecase_v1_0054,openfun__marsha,0,0.0,,Upload subtitles or transcripts
+usecase_v1_0055,openfun__marsha,0,0.0,,Upload video thumbnail
+usecase_v1_0056,openfun__marsha,0,0.0,,Create document resource
+usecase_v1_0057,openfun__marsha,0,0.0,,Upload document file
+usecase_v1_0058,openfun__marsha,0,0.0,,Manage playlist
+usecase_v1_0059,openfun__marsha,0,0.0,,Manage playlist access
+usecase_v1_0060,openfun__marsha,0,0.0,,Start live session
+usecase_v1_0061,openfun__marsha,0,0.0,,Stop and harvest live session
+usecase_v1_0062,openfun__marsha,0,0.0,,Send video analytics statement
+usecase_v1_0063,openfun__marsha,0,0.0,,Create classroom
+usecase_v1_0064,openfun__marsha,0,0.0,,Upload classroom document
+usecase_v1_0065,mwinamijr__django-scms,0,0.0,,Authenticate and view profile
+usecase_v1_0066,mwinamijr__django-scms,0,0.0,,Manage teacher accounts
+usecase_v1_0067,mwinamijr__django-scms,0,0.0,,Manage accountant accounts
+usecase_v1_0068,mwinamijr__django-scms,0,0.0,,Manage parent accounts
+usecase_v1_0069,mwinamijr__django-scms,0,0.0,,Manage student records
+usecase_v1_0070,mwinamijr__django-scms,0,0.0,,Bulk upload students
+usecase_v1_0071,mwinamijr__django-scms,0,0.0,,Manage academic structure
+usecase_v1_0072,mwinamijr__django-scms,0,0.0,,Bulk upload academic data
+usecase_v1_0073,mwinamijr__django-scms,0,0.0,,Record and allocate student payments
+usecase_v1_0074,mwinamijr__django-scms,0,0.0,,Manage receipts and student debt overview
+usecase_v1_0075,mwinamijr__django-scms,0,0.0,,Update or reverse debts
+usecase_v1_0076,mwinamijr__django-scms,0,0.0,,Record attendance
+usecase_v1_0077,mwinamijr__django-scms,0,0.0,,Generate timetable
+usecase_v1_0078,mwinamijr__django-scms,0,0.0,,Manage academic calendar events
+usecase_v1_0079,tough-dev-school__education-backend,0,0.0,,View course group offerings
+usecase_v1_0080,tough-dev-school__education-backend,0,0.0,,Check course price with promocode
+usecase_v1_0081,tough-dev-school__education-backend,0,0.0,,Create order draft
+usecase_v1_0082,tough-dev-school__education-backend,0,0.0,,Purchase course
+usecase_v1_0083,tough-dev-school__education-backend,0,0.0,,Confirm paid order
+usecase_v1_0084,tough-dev-school__education-backend,0,0.0,,List purchased courses
+usecase_v1_0085,tough-dev-school__education-backend,0,0.0,,View learning modules
+usecase_v1_0086,tough-dev-school__education-backend,0,0.0,,View lessons
+usecase_v1_0087,tough-dev-school__education-backend,0,0.0,,Read Notion learning material
+usecase_v1_0088,tough-dev-school__education-backend,0,0.0,,Refresh Notion material cache
+usecase_v1_0089,tough-dev-school__education-backend,0,0.0,,Submit homework answer
+usecase_v1_0090,tough-dev-school__education-backend,0,0.0,,React to homework answer
+usecase_v1_0091,tough-dev-school__education-backend,0,0.0,,Review homework crosschecks
+usecase_v1_0092,tough-dev-school__education-backend,0,0.0,,Access diploma records
+usecase_v1_0093,tough-dev-school__education-backend,0,0.0,,List users
+usecase_v1_0094,tough-dev-school__education-backend,0,0.0,,Manage authentication and password recovery
+usecase_v1_0095,tough-dev-school__education-backend,0,0.0,,Process payment notifications
+usecase_v1_0096,knowledgefactory4u__librarymanagementsystem,0,0.0,,Sign in to library admin panel
+usecase_v1_0097,knowledgefactory4u__librarymanagementsystem,0,0.0,,List and paginate books
+usecase_v1_0098,knowledgefactory4u__librarymanagementsystem,0,0.0,,Search books
+usecase_v1_0099,knowledgefactory4u__librarymanagementsystem,0,0.0,,Create book
+usecase_v1_0100,knowledgefactory4u__librarymanagementsystem,0,0.0,,Update book
+usecase_v1_0101,knowledgefactory4u__librarymanagementsystem,0,0.0,,Delete book
+usecase_v1_0102,knowledgefactory4u__librarymanagementsystem,0,0.0,,Manage authors
+usecase_v1_0103,knowledgefactory4u__librarymanagementsystem,0,0.0,,Manage categories
+usecase_v1_0104,knowledgefactory4u__librarymanagementsystem,0,0.0,,Manage publishers
+usecase_v1_0105,knowledgefactory4u__librarymanagementsystem,0,0.0,,Export library data to CSV
+usecase_v1_0106,SkyCascade__SkyLearn,0,0.0,,Register account
+usecase_v1_0107,SkyCascade__SkyLearn,0,0.0,,Manage profile and password
+usecase_v1_0108,SkyCascade__SkyLearn,0,0.0,,View admin dashboard analytics
+usecase_v1_0109,SkyCascade__SkyLearn,0,0.0,,Manage news and events
+usecase_v1_0110,SkyCascade__SkyLearn,0,0.0,,Manage academic sessions
+usecase_v1_0111,SkyCascade__SkyLearn,0,0.0,,Manage semesters
+usecase_v1_0112,SkyCascade__SkyLearn,0,0.0,,Manage students
+usecase_v1_0113,SkyCascade__SkyLearn,0,0.0,,Manage lecturers
+usecase_v1_0114,SkyCascade__SkyLearn,0,0.0,,Manage parents
+usecase_v1_0115,SkyCascade__SkyLearn,0,0.0,,Manage programs
+usecase_v1_0116,SkyCascade__SkyLearn,0,0.0,,Manage courses
+usecase_v1_0117,SkyCascade__SkyLearn,0,0.0,,Allocate courses to lecturers
+usecase_v1_0118,SkyCascade__SkyLearn,0,0.0,,Upload course documentation
+usecase_v1_0119,SkyCascade__SkyLearn,0,0.0,,Upload course video tutorials
+usecase_v1_0120,SkyCascade__SkyLearn,0,0.0,,Register and drop courses
+usecase_v1_0121,SkyCascade__SkyLearn,0,0.0,,Submit student scores
+usecase_v1_0122,SkyCascade__SkyLearn,0,0.0,,View grade and assessment results
+usecase_v1_0123,SkyCascade__SkyLearn,0,0.0,,Download registration form and result sheet
+usecase_v1_0124,SkyCascade__SkyLearn,0,0.0,,Create and manage quizzes
+usecase_v1_0125,SkyCascade__SkyLearn,0,0.0,,Create multiple-choice questions
+usecase_v1_0126,SkyCascade__SkyLearn,0,0.0,,Take quiz and continue incomplete quiz
+usecase_v1_0127,SkyCascade__SkyLearn,0,0.0,,Review and mark quiz sittings
+usecase_v1_0128,SkyCascade__SkyLearn,0,0.0,,View quiz progress
+usecase_v1_0129,SkyCascade__SkyLearn,0,0.0,,Search learning content
+usecase_v1_0130,SkyCascade__SkyLearn,0,0.0,,Pay through payment gateway
+usecase_v1_0131,SkyCascade__SkyLearn,0,0.0,,Create and view invoices
+usecase_v1_0132,adityagoyal222__django-lms,0,0.0,,Sign up and authenticate
+usecase_v1_0133,adityagoyal222__django-lms,0,0.0,,Create course
+usecase_v1_0134,adityagoyal222__django-lms,0,0.0,,Browse courses
+usecase_v1_0135,adityagoyal222__django-lms,0,0.0,,Enroll in course
+usecase_v1_0136,adityagoyal222__django-lms,0,0.0,,Unenroll from course
+usecase_v1_0137,adityagoyal222__django-lms,0,0.0,,Create assignment
+usecase_v1_0138,adityagoyal222__django-lms,0,0.0,,Update assignment
+usecase_v1_0139,adityagoyal222__django-lms,0,0.0,,Delete assignment
+usecase_v1_0140,adityagoyal222__django-lms,0,0.0,,Submit assignment
+usecase_v1_0141,adityagoyal222__django-lms,0,0.0,,Delete assignment submission
+usecase_v1_0142,adityagoyal222__django-lms,0,0.0,,Grade assignment submission
+usecase_v1_0143,adityagoyal222__django-lms,0,0.0,,Create course resource
+usecase_v1_0144,adityagoyal222__django-lms,0,0.0,,Delete course resource
+usecase_v1_0145,engripaye__library-management-system,0,0.0,,Add book
+usecase_v1_0146,engripaye__library-management-system,0,0.0,,List books
+usecase_v1_0147,engripaye__library-management-system,0,0.0,,Search books
+usecase_v1_0148,engripaye__library-management-system,0,0.0,,View book detail
+usecase_v1_0149,engripaye__library-management-system,0,0.0,,Register library user
+usecase_v1_0150,engripaye__library-management-system,0,0.0,,List library users
+usecase_v1_0151,engripaye__library-management-system,0,0.0,,Borrow book
+usecase_v1_0152,engripaye__library-management-system,0,0.0,,Return borrowed book
+usecase_v1_0153,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,0,0.0,,Manage student records
+usecase_v1_0154,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,0,0.0,,Manage courses
+usecase_v1_0155,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,0,0.0,,Add course to student
+usecase_v1_0156,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,0,0.0,,Remove course from student
+usecase_v1_0157,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,0,0.0,,Manage student passport details
+usecase_v1_0158,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,0,0.0,,Add course review
+usecase_v1_0159,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,0,0.0,,Remove course review
+usecase_v1_0160,mehmetpekdemir__Library-Management-System,0,0.0,,List and view books
+usecase_v1_0161,mehmetpekdemir__Library-Management-System,0,0.0,,Search books
+usecase_v1_0162,mehmetpekdemir__Library-Management-System,0,0.0,,Create book
+usecase_v1_0163,mehmetpekdemir__Library-Management-System,0,0.0,,Update book
+usecase_v1_0164,mehmetpekdemir__Library-Management-System,0,0.0,,Delete book
+usecase_v1_0165,mehmetpekdemir__Library-Management-System,0,0.0,,Manage authors
+usecase_v1_0166,mehmetpekdemir__Library-Management-System,0,0.0,,Manage categories
+usecase_v1_0167,mehmetpekdemir__Library-Management-System,0,0.0,,Manage publishers
+usecase_v1_0168,RameshMF__library-management-system,0,0.0,,Manage book catalog
+usecase_v1_0169,RameshMF__library-management-system,0,0.0,,Register library user
+usecase_v1_0170,RameshMF__library-management-system,0,0.0,,List library users
+usecase_v1_0171,RameshMF__library-management-system,0,0.0,,Borrow book
+usecase_v1_0172,RameshMF__library-management-system,0,0.0,,Return book
+usecase_v1_0173,RameshMF__library-management-system,0,0.0,,View book detail
+usecase_v1_0174,JacksonGao1999__StudentManagement,0,0.0,,List students with pagination
+usecase_v1_0175,JacksonGao1999__StudentManagement,0,0.0,,Validate student name
+usecase_v1_0176,JacksonGao1999__StudentManagement,0,0.0,,Create student
+usecase_v1_0177,JacksonGao1999__StudentManagement,0,0.0,,View and update student
+usecase_v1_0178,JacksonGao1999__StudentManagement,0,0.0,,Delete students
+usecase_v1_0179,JacksonGao1999__StudentManagement,0,0.0,,Load department options
+usecase_v1_0180,Asitha123__Java-Spring-boot-Student-Management-System,0,0.0,,List students
+usecase_v1_0181,Asitha123__Java-Spring-boot-Student-Management-System,0,0.0,,Open student create or edit form
+usecase_v1_0182,Asitha123__Java-Spring-boot-Student-Management-System,0,0.0,,Save student
+usecase_v1_0183,Asitha123__Java-Spring-boot-Student-Management-System,0,0.0,,Delete student

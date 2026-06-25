@@ -1,0 +1,8 @@
+﻿{
+  "model": "codegemma:7b",
+  "run_name": "user_goal_v4_scale_family",
+  "n": 184,
+  "soft_name_match": 0.3696,
+  "soft_name_token_f1": 0.426,
+  "metrics_soft_csv": "results/runs/codegemma_7b__user_goal_v4_scale_family/metrics_soft.csv"
+}

@@ -1,0 +1,7 @@
+﻿framework,n,exact_name_match,substring_name_match,name_token_f1,description_token_f1
+Django/Python,55,0.3455,0.4364,0.6442,0.3773
+JavaScript,6,0.3333,0.3333,0.5238,0.353
+Laravel/PHP,25,0.28,0.36,0.5617,0.3825
+Microservices/Java,12,0.25,0.5,0.6558,0.3401
+Spring/Java,43,0.4419,0.4419,0.7487,0.4234
+TypeScript/Node,43,0.2558,0.3023,0.5564,0.3547

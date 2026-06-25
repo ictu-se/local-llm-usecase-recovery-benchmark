@@ -1,0 +1,185 @@
+﻿task_id,repository_folder,gold_use_case_name,pred_use_case_name,name_token_f1,category
+usecase_v1_0000,jobic10__student-management-using-django,Manage staff,Manage staff,1.0,Exact match
+usecase_v1_0001,jobic10__student-management-using-django,Manage students,Manage students,1.0,Exact match
+usecase_v1_0002,jobic10__student-management-using-django,Manage courses,Manage courses,1.0,Exact match
+usecase_v1_0003,jobic10__student-management-using-django,Manage subjects,Manage subjects,1.0,Exact match
+usecase_v1_0004,jobic10__student-management-using-django,Manage academic sessions,Manage sessions,0.8,Near match / phrasing
+usecase_v1_0005,jobic10__student-management-using-django,Take student attendance,Take Attendance,0.8,Near match / phrasing
+usecase_v1_0006,jobic10__student-management-using-django,Update student attendance,Update Attendance,0.8,Near match / phrasing
+usecase_v1_0007,jobic10__student-management-using-django,Add or update student result,Manage Student Results,0.25,Too broad
+usecase_v1_0008,jobic10__student-management-using-django,Apply for leave,Apply for leave,1.0,Exact match
+usecase_v1_0009,jobic10__student-management-using-django,View attendance,View Attendance,1.0,Exact match
+usecase_v1_0010,jobic10__student-management-using-django,View result,View Result,1.0,Exact match
+usecase_v1_0011,jobic10__student-management-using-django,Review leave applications,View student leave detail,0.2857,Semantic drift
+usecase_v1_0012,jobic10__student-management-using-django,Reply to feedback,View Feedback Detail,0.3333,Semantic drift
+usecase_v1_0013,thakurpdhiraj__library_management_system,Add book and create inventory,Create Book,0.5714,Semantic drift
+usecase_v1_0014,thakurpdhiraj__library_management_system,Search and update books,Manage books,0.3333,Too broad
+usecase_v1_0015,thakurpdhiraj__library_management_system,Delete book or inventory,Delete book,0.6667,Near match / phrasing
+usecase_v1_0016,thakurpdhiraj__library_management_system,Manage users,Manage users,1.0,Exact match
+usecase_v1_0017,thakurpdhiraj__library_management_system,Order available book,Place a new book order,0.5,Semantic drift
+usecase_v1_0018,thakurpdhiraj__library_management_system,View current orders,View My Orders,0.6667,Semantic drift
+usecase_v1_0019,thakurpdhiraj__library_management_system,View order history,View order history,1.0,Exact match
+usecase_v1_0020,thakurpdhiraj__library_management_system,Filter overdue orders,View overdue orders,0.6667,Semantic drift
+usecase_v1_0021,thakurpdhiraj__library_management_system,Search orders,Search orders by type,0.6667,Near match / phrasing
+usecase_v1_0022,thakurpdhiraj__library_management_system,Mark order as collected,Mark order as collected,1.0,Exact match
+usecase_v1_0023,thakurpdhiraj__library_management_system,Mark order as returned and generate invoice,Mark order as returned,0.7273,Near match / phrasing
+usecase_v1_0024,thakurpdhiraj__library_management_system,Authenticate and access role-based views,Login,0.0,Semantic drift
+usecase_v1_0025,abdulwahid880__School-Management-system-in-laravel-,Manage schools,Manage schools,1.0,Exact match
+usecase_v1_0026,abdulwahid880__School-Management-system-in-laravel-,Register school users,Register User,0.4,Semantic drift
+usecase_v1_0027,abdulwahid880__School-Management-system-in-laravel-,Manage classes and sections,Create school class,0.0,Too narrow
+usecase_v1_0028,abdulwahid880__School-Management-system-in-laravel-,Take attendance,Take Attendance,1.0,Exact match
+usecase_v1_0029,abdulwahid880__School-Management-system-in-laravel-,Adjust attendance,Adjust Attendance,1.0,Exact match
+usecase_v1_0030,abdulwahid880__School-Management-system-in-laravel-,Calculate and save grades,View grades detail,0.2857,Semantic drift
+usecase_v1_0031,abdulwahid880__School-Management-system-in-laravel-,View grades,View grades detail,0.8,Near match / phrasing
+usecase_v1_0032,abdulwahid880__School-Management-system-in-laravel-,Manage fees,Create/Add/Register/Save fee,0.0,Too narrow
+usecase_v1_0033,abdulwahid880__School-Management-system-in-laravel-,Manage income and expenses,Manage account sectors and accounts,0.4444,Semantic drift
+usecase_v1_0034,abdulwahid880__School-Management-system-in-laravel-,Manage exams,Manage exams,1.0,Exact match
+usecase_v1_0035,abdulwahid880__School-Management-system-in-laravel-,Manage academic content,Manage Academic Settings,0.6667,Semantic drift
+usecase_v1_0036,abdulwahid880__School-Management-system-in-laravel-,Manage library books,Manage books,0.8,Near match / phrasing
+usecase_v1_0037,abdulwahid880__School-Management-system-in-laravel-,Issue and return books,Manage issued books,0.2857,Too broad
+usecase_v1_0038,abdulwahid880__School-Management-system-in-laravel-,Import and export users,Export students to Excel,0.25,Semantic drift
+usecase_v1_0039,4jean__lav_sms,Manage student records,Manage Students,0.4,Semantic drift
+usecase_v1_0040,4jean__lav_sms,Promote students,Promote students,1.0,Exact match
+usecase_v1_0041,4jean__lav_sms,Manage timetable,Manage Time Tables,0.4,Semantic drift
+usecase_v1_0042,4jean__lav_sms,Manage payments,Manage Payments,1.0,Exact match
+usecase_v1_0043,4jean__lav_sms,Manage marks,Manage Marks,1.0,Exact match
+usecase_v1_0044,4jean__lav_sms,View and print marksheet,Select Exam Year,0.0,Semantic drift
+usecase_v1_0045,4jean__lav_sms,Generate tabulation sheet,Generate Mark Tabulation Report,0.5714,Semantic drift
+usecase_v1_0046,4jean__lav_sms,Manage academic structure,"Manage classes, sections, subjects, grades, and exams",0.2,Semantic drift
+usecase_v1_0047,4jean__lav_sms,View children,View my children,0.8,Near match / phrasing
+usecase_v1_0048,4jean__lav_sms,Update own account,Manage account profile,0.3333,Too broad
+usecase_v1_0049,4jean__lav_sms,Generate and verify pins,Manage Pins,0.3333,Semantic drift
+usecase_v1_0050,openfun__marsha,Create video resource,Create Video,0.8,Near match / phrasing
+usecase_v1_0051,openfun__marsha,Initiate video upload,Initiate video upload,1.0,Exact match
+usecase_v1_0052,openfun__marsha,Complete video upload,Mark video upload as ended,0.5,Semantic drift
+usecase_v1_0053,openfun__marsha,View video in LMS,View video detail,0.5714,Semantic drift
+usecase_v1_0054,openfun__marsha,Upload subtitles or transcripts,Upload video subtitles,0.5714,Semantic drift
+usecase_v1_0055,openfun__marsha,Upload video thumbnail,Create Video Thumbnail,0.6667,Semantic drift
+usecase_v1_0056,openfun__marsha,Create document resource,Create document,0.8,Near match / phrasing
+usecase_v1_0057,openfun__marsha,Upload document file,Initiate and Complete Document Upload,0.5,Semantic drift
+usecase_v1_0058,openfun__marsha,Manage playlist,Manage playlists,0.5,Near match / phrasing
+usecase_v1_0059,openfun__marsha,Manage playlist access,Manage playlist accesses,0.6667,Near match / phrasing
+usecase_v1_0060,openfun__marsha,Start live session,Start live video session,0.8571,Near match / phrasing
+usecase_v1_0061,openfun__marsha,Stop and harvest live session,Manage video recording,0.0,Too broad
+usecase_v1_0062,openfun__marsha,Send video analytics statement,Send xAPI statement,0.5714,Semantic drift
+usecase_v1_0063,openfun__marsha,Create classroom,Manage classrooms,0.0,Too broad
+usecase_v1_0064,openfun__marsha,Upload classroom document,Upload classroom document,1.0,Exact match
+usecase_v1_0065,mwinamijr__django-scms,Authenticate and view profile,Login and View Profile,0.75,Near match / phrasing
+usecase_v1_0066,mwinamijr__django-scms,Manage teacher accounts,Bulk Upload Teachers,0.0,Semantic drift
+usecase_v1_0067,mwinamijr__django-scms,Manage accountant accounts,List/Search Accountants,0.0,Too narrow
+usecase_v1_0068,mwinamijr__django-scms,Manage parent accounts,List/Search Parents,0.0,Too narrow
+usecase_v1_0069,mwinamijr__django-scms,Manage student records,Manage students,0.4,Semantic drift
+usecase_v1_0070,mwinamijr__django-scms,Bulk upload students,Bulk upload students,1.0,Exact match
+usecase_v1_0071,mwinamijr__django-scms,Manage academic structure,Manage academic entities,0.6667,Semantic drift
+usecase_v1_0072,mwinamijr__django-scms,Bulk upload academic data,Bulk upload student classes,0.5,Semantic drift
+usecase_v1_0073,mwinamijr__django-scms,Record and allocate student payments,Record Payment,0.2857,Semantic drift
+usecase_v1_0074,mwinamijr__django-scms,Manage receipts and student debt overview,Bulk Upload Receipts,0.2222,Semantic drift
+usecase_v1_0075,mwinamijr__django-scms,Update or reverse debts,Update student debts,0.5714,Semantic drift
+usecase_v1_0076,mwinamijr__django-scms,Record attendance,Manage teacher attendance,0.4,Semantic drift
+usecase_v1_0077,mwinamijr__django-scms,Generate timetable,Generate Timetable,1.0,Exact match
+usecase_v1_0078,mwinamijr__django-scms,Manage academic calendar events,Bulk upload school events,0.25,Semantic drift
+usecase_v1_0079,tough-dev-school__education-backend,View course group offerings,List/Search Courses by Group,0.2222,Semantic drift
+usecase_v1_0080,tough-dev-school__education-backend,Check course price with promocode,Get price with promo code,0.4,Semantic drift
+usecase_v1_0081,tough-dev-school__education-backend,Create order draft,Create order draft,1.0,Exact match
+usecase_v1_0082,tough-dev-school__education-backend,Purchase course,Purchase course,1.0,Exact match
+usecase_v1_0083,tough-dev-school__education-backend,Confirm paid order,Confirm order payment,0.6667,Semantic drift
+usecase_v1_0084,tough-dev-school__education-backend,List purchased courses,View purchased courses,0.6667,Semantic drift
+usecase_v1_0085,tough-dev-school__education-backend,View learning modules,View module detail,0.3333,Semantic drift
+usecase_v1_0086,tough-dev-school__education-backend,View lessons,View lesson detail,0.4,Semantic drift
+usecase_v1_0087,tough-dev-school__education-backend,Read Notion learning material,View material detail,0.2857,Semantic drift
+usecase_v1_0088,tough-dev-school__education-backend,Refresh Notion material cache,View material update status,0.25,Semantic drift
+usecase_v1_0089,tough-dev-school__education-backend,Submit homework answer,Submit homework answer,1.0,Exact match
+usecase_v1_0090,tough-dev-school__education-backend,React to homework answer,React to homework answer,1.0,Exact match
+usecase_v1_0091,tough-dev-school__education-backend,Review homework crosschecks,View crosscheck status,0.0,Semantic drift
+usecase_v1_0092,tough-dev-school__education-backend,Access diploma records,View diploma detail,0.3333,Semantic drift
+usecase_v1_0093,tough-dev-school__education-backend,List users,List/Search Users,0.8,Near match / phrasing
+usecase_v1_0094,tough-dev-school__education-backend,Manage authentication and password recovery,Request and obtain passwordless login token,0.1818,Semantic drift
+usecase_v1_0095,tough-dev-school__education-backend,Process payment notifications,Process Payment Notifications,1.0,Exact match
+usecase_v1_0096,knowledgefactory4u__librarymanagementsystem,Sign in to library admin panel,Login to Admin Panel,0.6,Semantic drift
+usecase_v1_0097,knowledgefactory4u__librarymanagementsystem,List and paginate books,Manage books,0.3333,Too broad
+usecase_v1_0098,knowledgefactory4u__librarymanagementsystem,Search books,Search books,1.0,Exact match
+usecase_v1_0099,knowledgefactory4u__librarymanagementsystem,Create book,Create/Add/Register/Save Book,0.5714,Semantic drift
+usecase_v1_0100,knowledgefactory4u__librarymanagementsystem,Update book,Update Book,1.0,Exact match
+usecase_v1_0101,knowledgefactory4u__librarymanagementsystem,Delete book,Remove book,0.5,Semantic drift
+usecase_v1_0102,knowledgefactory4u__librarymanagementsystem,Manage authors,Manage authors,1.0,Exact match
+usecase_v1_0103,knowledgefactory4u__librarymanagementsystem,Manage categories,Manage categories,1.0,Exact match
+usecase_v1_0104,knowledgefactory4u__librarymanagementsystem,Manage publishers,Manage publishers,1.0,Exact match
+usecase_v1_0105,knowledgefactory4u__librarymanagementsystem,Export library data to CSV,Export data to CSV,0.8889,Near match / phrasing
+usecase_v1_0106,SkyCascade__SkyLearn,Register account,Register as a student,0.3333,Semantic drift
+usecase_v1_0107,SkyCascade__SkyLearn,Manage profile and password,Change password,0.3333,Semantic drift
+usecase_v1_0108,SkyCascade__SkyLearn,View admin dashboard analytics,View Dashboard,0.6667,Semantic drift
+usecase_v1_0109,SkyCascade__SkyLearn,Manage news and events,Manage News and Events,1.0,Exact match
+usecase_v1_0110,SkyCascade__SkyLearn,Manage academic sessions,Manage Sessions,0.8,Near match / phrasing
+usecase_v1_0111,SkyCascade__SkyLearn,Manage semesters,Manage semesters,1.0,Exact match
+usecase_v1_0112,SkyCascade__SkyLearn,Manage students,Manage students,1.0,Exact match
+usecase_v1_0113,SkyCascade__SkyLearn,Manage lecturers,Manage Lecturers,1.0,Exact match
+usecase_v1_0114,SkyCascade__SkyLearn,Manage parents,Add parent,0.0,Too narrow
+usecase_v1_0115,SkyCascade__SkyLearn,Manage programs,Manage Programs,1.0,Exact match
+usecase_v1_0116,SkyCascade__SkyLearn,Manage courses,Manage Courses,1.0,Exact match
+usecase_v1_0117,SkyCascade__SkyLearn,Allocate courses to lecturers,Manage Course Allocations,0.0,Too broad
+usecase_v1_0118,SkyCascade__SkyLearn,Upload course documentation,Manage course documentations,0.3333,Too broad
+usecase_v1_0119,SkyCascade__SkyLearn,Upload course video tutorials,Manage video tutorials,0.5714,Too broad
+usecase_v1_0120,SkyCascade__SkyLearn,Register and drop courses,Manage course registration and drop,0.4444,Semantic drift
+usecase_v1_0121,SkyCascade__SkyLearn,Submit student scores,Manage student scores,0.6667,Too broad
+usecase_v1_0122,SkyCascade__SkyLearn,View grade and assessment results,View Grade Result,0.5,Semantic drift
+usecase_v1_0123,SkyCascade__SkyLearn,Download registration form and result sheet,View registration form,0.4444,Semantic drift
+usecase_v1_0124,SkyCascade__SkyLearn,Create and manage quizzes,Manage quizzes,0.6667,Near match / phrasing
+usecase_v1_0125,SkyCascade__SkyLearn,Create multiple-choice questions,Create MC Question,0.2857,Semantic drift
+usecase_v1_0126,SkyCascade__SkyLearn,Take quiz and continue incomplete quiz,Take quiz,0.5,Near match / phrasing
+usecase_v1_0127,SkyCascade__SkyLearn,Review and mark quiz sittings,View quiz marking list,0.2222,Semantic drift
+usecase_v1_0128,SkyCascade__SkyLearn,View quiz progress,View quiz progress,1.0,Exact match
+usecase_v1_0129,SkyCascade__SkyLearn,Search learning content,Search content,0.8,Near match / phrasing
+usecase_v1_0130,SkyCascade__SkyLearn,Pay through payment gateway,Create Invoice and Process Payment,0.2222,Semantic drift
+usecase_v1_0131,SkyCascade__SkyLearn,Create and view invoices,Create Invoice,0.3333,Semantic drift
+usecase_v1_0132,adityagoyal222__django-lms,Sign up and authenticate,Create User Account,0.0,Semantic drift
+usecase_v1_0133,adityagoyal222__django-lms,Create course,Create course,1.0,Exact match
+usecase_v1_0134,adityagoyal222__django-lms,Browse courses,List/Search Courses,0.4,Semantic drift
+usecase_v1_0135,adityagoyal222__django-lms,Enroll in course,Enroll in course,1.0,Exact match
+usecase_v1_0136,adityagoyal222__django-lms,Unenroll from course,Unenroll from course,1.0,Exact match
+usecase_v1_0137,adityagoyal222__django-lms,Create assignment,Create Assignment,1.0,Exact match
+usecase_v1_0138,adityagoyal222__django-lms,Update assignment,Update Assignment,1.0,Exact match
+usecase_v1_0139,adityagoyal222__django-lms,Delete assignment,Delete Assignment,1.0,Exact match
+usecase_v1_0140,adityagoyal222__django-lms,Submit assignment,Submit Assignment,1.0,Exact match
+usecase_v1_0141,adityagoyal222__django-lms,Delete assignment submission,Delete Assignment Submission,1.0,Exact match
+usecase_v1_0142,adityagoyal222__django-lms,Grade assignment submission,Grade Assignment Submission,1.0,Exact match
+usecase_v1_0143,adityagoyal222__django-lms,Create course resource,Create Resource,0.8,Near match / phrasing
+usecase_v1_0144,adityagoyal222__django-lms,Delete course resource,Delete Resource,0.8,Near match / phrasing
+usecase_v1_0145,engripaye__library-management-system,Add book,Create book,0.5,Semantic drift
+usecase_v1_0146,engripaye__library-management-system,List books,List/Search Books,0.8,Near match / phrasing
+usecase_v1_0147,engripaye__library-management-system,Search books,Search books,1.0,Exact match
+usecase_v1_0148,engripaye__library-management-system,View book detail,View book detail,1.0,Exact match
+usecase_v1_0149,engripaye__library-management-system,Register library user,Register new user,0.6667,Semantic drift
+usecase_v1_0150,engripaye__library-management-system,List library users,List/Search Users,0.6667,Semantic drift
+usecase_v1_0151,engripaye__library-management-system,Borrow book,Borrow a book,0.8,Near match / phrasing
+usecase_v1_0152,engripaye__library-management-system,Return borrowed book,Return a borrowed book,0.8571,Near match / phrasing
+usecase_v1_0153,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,Manage student records,Manage students,0.4,Semantic drift
+usecase_v1_0154,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,Manage courses,Manage courses,1.0,Exact match
+usecase_v1_0155,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,Add course to student,Manage student courses,0.2857,Too broad
+usecase_v1_0156,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,Remove course from student,Remove course from student,1.0,Exact match
+usecase_v1_0157,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,Manage student passport details,Add Passport,0.3333,Too narrow
+usecase_v1_0158,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,Add course review,Add Review,0.8,Near match / phrasing
+usecase_v1_0159,AdityaKshettri__Student-Database-Management-System-using-JAVA-Spring-Boot,Remove course review,Remove review from course,0.8571,Near match / phrasing
+usecase_v1_0160,mehmetpekdemir__Library-Management-System,List and view books,Manage books,0.3333,Too broad
+usecase_v1_0161,mehmetpekdemir__Library-Management-System,Search books,Search books,1.0,Exact match
+usecase_v1_0162,mehmetpekdemir__Library-Management-System,Create book,Create book,1.0,Exact match
+usecase_v1_0163,mehmetpekdemir__Library-Management-System,Update book,Update book,1.0,Exact match
+usecase_v1_0164,mehmetpekdemir__Library-Management-System,Delete book,Remove book,0.5,Semantic drift
+usecase_v1_0165,mehmetpekdemir__Library-Management-System,Manage authors,Manage authors,1.0,Exact match
+usecase_v1_0166,mehmetpekdemir__Library-Management-System,Manage categories,Manage categories,1.0,Exact match
+usecase_v1_0167,mehmetpekdemir__Library-Management-System,Manage publishers,Manage Publishers,1.0,Exact match
+usecase_v1_0168,RameshMF__library-management-system,Manage book catalog,Manage books,0.4,Semantic drift
+usecase_v1_0169,RameshMF__library-management-system,Register library user,Create user,0.4,Semantic drift
+usecase_v1_0170,RameshMF__library-management-system,List library users,Manage users,0.4,Too broad
+usecase_v1_0171,RameshMF__library-management-system,Borrow book,Borrow book,1.0,Exact match
+usecase_v1_0172,RameshMF__library-management-system,Return book,Return book,1.0,Exact match
+usecase_v1_0173,RameshMF__library-management-system,View book detail,View Book detail,1.0,Exact match
+usecase_v1_0174,JacksonGao1999__StudentManagement,List students with pagination,List/Search Students,0.5714,Semantic drift
+usecase_v1_0175,JacksonGao1999__StudentManagement,Validate student name,Check student name availability,0.5714,Semantic drift
+usecase_v1_0176,JacksonGao1999__StudentManagement,Create student,Create student,1.0,Exact match
+usecase_v1_0177,JacksonGao1999__StudentManagement,View and update student,View student detail,0.5714,Semantic drift
+usecase_v1_0178,JacksonGao1999__StudentManagement,Delete students,Delete students,1.0,Exact match
+usecase_v1_0179,JacksonGao1999__StudentManagement,Load department options,List departments,0.0,Semantic drift
+usecase_v1_0180,Asitha123__Java-Spring-boot-Student-Management-System,List students,Manage students,0.5,Too broad
+usecase_v1_0181,Asitha123__Java-Spring-boot-Student-Management-System,Open student create or edit form,Manage students,0.0,Too broad
+usecase_v1_0182,Asitha123__Java-Spring-boot-Student-Management-System,Save student,Save student,1.0,Exact match
+usecase_v1_0183,Asitha123__Java-Spring-boot-Student-Management-System,Delete student,Delete student,1.0,Exact match

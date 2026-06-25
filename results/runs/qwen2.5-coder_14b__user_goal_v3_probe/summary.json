@@ -1,0 +1,12 @@
+﻿{
+  "model": "qwen2.5-coder:14b",
+  "run_name": "user_goal_v3_probe",
+  "n": 184,
+  "exact_name_match": 0.3098,
+  "substring_name_match": 0.3913,
+  "name_token_f1": 0.6233,
+  "description_token_f1": 0.3469,
+  "parse_error_count": 0,
+  "runtime_error_count": 0,
+  "metrics_csv": "results/runs/qwen2.5-coder_14b__user_goal_v3_probe/metrics.csv"
+}
